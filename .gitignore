@@ -1,0 +1,23 @@
+# Built outputs
+/build
+/app/build
+
+# Android local files — NEVER COMMIT (contains API keys)
+local.properties
+
+# Gradle files
+.gradle/
+*.iml
+
+# IDE files
+.idea/
+*.ipr
+*.iws
+.DS_Store
+
+# APK/AAB outputs
+*.apk
+*.aab
+
+# Logs
+*.log

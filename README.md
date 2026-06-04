@@ -77,5 +77,3 @@ app/src/main/java/com/powermap/demo/
 ---
 
 **© 2026 PowerMap Development Team. All rights reserved.**
-
-# powermap-android-sdk-demo
