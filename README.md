@@ -36,12 +36,7 @@ app/
     └── powermap-sdk-release.aar   ← copy here
 ```
 
-Build the AAR from the [powermap-android-sdk](https://github.com/powermap/powermap-android-sdk) repo:
-```bash
-cd powermap-android-sdk
-./gradlew :powermap-sdk:assembleRelease
-# Output: powermap-sdk/build/outputs/aar/powermap-sdk-release.aar
-```
+Download the AAR from the [powermap-android-sdk](https://maps.powermap.live/sdk-docs/android)
 
 ### 4. Open in Android Studio
 Open the project root in Android Studio, sync Gradle, then run on an emulator or device.
